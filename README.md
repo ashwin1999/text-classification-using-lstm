@@ -4,6 +4,6 @@ Trained an LSTM based text classifier on hotel review data with the primary goal
 
 ## Model Training and Testing Report:
 
-| Model Name | Epochs | Validation Accuracy | Validation Loss |
+| Model Name | Epochs | Test Accuracy | Test Loss |
 |---|---|---|---|
-| LSTM Text Classifier | 15 | 87% | 0.48 |
+| LSTM Text Classifier | 15 | 88.3% | 0.457 |
